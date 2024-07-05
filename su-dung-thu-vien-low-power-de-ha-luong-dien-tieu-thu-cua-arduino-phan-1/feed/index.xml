@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các bình luận về: Sử dụng thư viện Low Power để hạ lượng điện tiêu thụ của arduino	</title>
+	<atom:link href="http://localhost/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/feed/?simply_static_page=276" rel="self" type="application/rss+xml" />
+	<link>https://localhost:10004/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/</link>
+	<description></description>
+	<lastBuildDate>Wed, 29 May 2024 09:42:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		Bởi: Sử dụng pin năng lượng mặt trời cho Arduino - Tuấn Khanh IT Blog		</title>
+		<link>https://localhost:10004/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/#comment-2</link>
+
+		<dc:creator><![CDATA[Sử dụng pin năng lượng mặt trời cho Arduino - Tuấn Khanh IT Blog]]></dc:creator>
+		<pubDate>Wed, 29 May 2024 09:42:29 +0000</pubDate>
+		<guid isPermaLink="false">https://itblog.id.vn/?p=70#comment-2</guid>
+
+					<description><![CDATA[[&#8230;] dụng arduino pro mini để tiết kiệm năng lượng, bạn có thể tham khảo bài viết này để sử dụng thư viện tiết kiệm điện [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] dụng arduino pro mini để tiết kiệm năng lượng, bạn có thể tham khảo bài viết này để sử dụng thư viện tiết kiệm điện [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
