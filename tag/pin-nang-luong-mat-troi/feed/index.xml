@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pin năng lượng mặt trời &#8211; Tuấn Khanh Blog</title>
+	<atom:link href="http://localhost/tuankhanhblog/tag/pin-nang-luong-mat-troi/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/tuankhanhblog</link>
+	<description>Chia sẽ kiến thức, kinh nghiệm về ngành Công nghệ thông tin</description>
+	<lastBuildDate>Thu, 23 May 2024 13:13:31 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>http://localhost/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
+	<title>Pin năng lượng mặt trời &#8211; Tuấn Khanh Blog</title>
+	<link>http://localhost/tuankhanhblog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ưu, nhược điểm của mắc nối tiếp và song song các tấm pin mặt trời?</title>
+		<link>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/</link>
+					<comments>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/#comments</comments>
+		
+		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 13:13:31 +0000</pubDate>
+				<category><![CDATA[arrduino]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[Internet of Things]]></category>
+		<category><![CDATA[IOT]]></category>
+		<category><![CDATA[Pin năng lượng mặt trời]]></category>
+		<guid isPermaLink="false">https://itblog.id.vn/?p=78</guid>
+
+					<description><![CDATA[Nối tiếp và song song là các phương thức kết nối phổ biến trong các hệ thống tấm pin mặt trời, mỗi phương thức đều có ưu điểm và nhược điểm riêng. Hiểu đặc điểm của chúng là rất quan trọng để chọn phương thức kết nối phù hợp. Đầu tiên, chúng ta hãy xem [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Nối tiếp và song song là các phương thức kết nối phổ biến trong các hệ thống tấm pin mặt trời, mỗi phương thức đều có ưu điểm và nhược điểm riêng. Hiểu đặc điểm của chúng là rất quan trọng để chọn phương thức kết nối phù hợp.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Đầu tiên, chúng ta hãy xem xét những ưu điểm và nhược điểm của kết nối nối tiếp.</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="540" height="221" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-5.png" alt="" class="wp-image-79"/></figure>
+
+
+
+<p>Một trong những ưu điểm của kết nối nối tiếp là nó có thể tăng tổng công suất đầu ra mà không cần phải thay dây đầu ra dày hơn. Điều này có nghĩa là dây và thiết bị hiện có có thể được sử dụng để mang công suất đầu ra lớn hơn. Ví dụ: nếu bạn có hai tấm pin mặt trời 12V, việc kết nối chúng nối tiếp sẽ cung cấp cho bạn điện áp đầu ra 24V mà không cần phải thay thế bộ điều khiển pin 12V ban đầu. Phương pháp này có thể tiết kiệm chi phí và công sức.</p>
+
+
+
+<p>Tuy nhiên, việc kết nối nối tiếp cũng có thể gây ra một số hậu quả. Khi hai bảng được mắc nối tiếp, nếu một trong số chúng bị bóng mờ hoặc hư hỏng và mất khả năng phát điện thì toàn bộ mạch sẽ bị gián đoạn, ngừng cung cấp điện cho tải bên ngoài. Nó tương tự như trường hợp các thiết bị khác trong mạch nối tiếp bị hỏng khiến toàn bộ mạch trở thành mạch hở. Vì vậy, khi sử dụng kết nối nối tiếp, điều quan trọng là phải đảm bảo rằng mỗi bảng hoạt động bình thường để tránh làm gián đoạn toàn bộ mạch điện.</p>
+
+
+
+<h2 class="wp-block-heading">Bây giờ chúng ta hãy xem xét những ưu điểm và nhược điểm của kết nối song song.</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="543" height="240" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-7.png" alt="" class="wp-image-82"/></figure>
+
+
+
+<p>Ưu điểm của kết nối song song là miễn là các tấm pin có cùng điện áp đầu ra thì có thể kết nối song song với bộ điều khiển để sử dụng. Trong một kết nối song song, sức mạnh của tất cả các bảng sẽ tăng lên. Ví dụ: nếu bạn kết nối song song bảng 50W và bảng 100W, công suất đầu ra của chúng sẽ vào khoảng 150W. Phương pháp này có thể tăng tổng công suất đầu ra mà không ảnh hưởng đến điện áp chung.</p>
+
+
+
+<p>Không giống như kết nối nối tiếp, nếu một bảng trong kết nối song song bị hỏng và trở thành mạch hở, nó sẽ không ảnh hưởng đến điện áp chung mà chỉ ảnh hưởng đến nguồn điện. Điều này có nghĩa là các tấm nền khác vẫn có thể tiếp tục hoạt động, đảm bảo sự ổn định và tin cậy của hệ thống.</p>
+
+
+
+<p>Tóm lại, kết nối nối tiếp có thể tăng tổng công suất đầu ra, trong khi kết nối song song có thể duy trì cùng công suất đầu ra và tăng tổng điện áp đầu ra. Việc lựa chọn phương pháp kết nối phù hợp phụ thuộc vào yêu cầu cụ thể và thiết kế hệ thống. Cho dù bạn chọn kết nối nối tiếp hay song song, điều quan trọng là phải đảm bảo rằng mỗi bảng điều khiển đều hoạt động bình thường để đảm bảo sự ổn định và độ tin cậy của hệ thống.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

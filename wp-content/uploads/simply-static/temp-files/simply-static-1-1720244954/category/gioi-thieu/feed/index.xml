@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>giới thiệu &#8211; Tuấn Khanh Blog</title>
+	<atom:link href="http://localhost/tuankhanhblog/category/gioi-thieu/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/tuankhanhblog</link>
+	<description>Chia sẽ kiến thức, kinh nghiệm về ngành Công nghệ thông tin</description>
+	<lastBuildDate>Wed, 15 May 2024 03:57:05 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>http://localhost/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
+	<title>giới thiệu &#8211; Tuấn Khanh Blog</title>
+	<link>http://localhost/tuankhanhblog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Giới thiệu về bản thân</title>
+		<link>http://localhost/tuankhanhblog/2024/05/15/hello-world/</link>
+					<comments>http://localhost/tuankhanhblog/2024/05/15/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
+		<pubDate>Wed, 15 May 2024 03:57:05 +0000</pubDate>
+				<category><![CDATA[giới thiệu]]></category>
+		<guid isPermaLink="false">https://itblog.id.vn/?p=1</guid>
+
+					<description><![CDATA[Chào mừng bạn đến với blog của tôi! Tôi tên là Tuấn Khanh, với đam mê về Công Nghệ Thông Tin và muốn chia sẻ kiến thức và trải nghiệm của mình trong lĩnh vực này. Tôi là một người đam mê công nghệ từ thuở nhỏ, và tôi luôn tò mò về cách mà [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Chào mừng bạn đến với blog của tôi! Tôi tên là Tuấn Khanh, với đam mê về Công Nghệ Thông Tin và muốn chia sẻ kiến thức và trải nghiệm của mình trong lĩnh vực này.</p>
+
+
+
+<p>Tôi là một người đam mê công nghệ từ thuở nhỏ, và tôi luôn tò mò về cách mà công nghệ thay đổi cuộc sống của chúng ta. Tôi tin rằng thông qua việc tìm hiểu và chia sẻ, chúng ta có thể hiểu rõ hơn về cách mà công nghệ có thể mang lại lợi ích và thay đổi tích cực cho xã hội.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1832" height="1374" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/20240526_105822.jpg" alt="" class="wp-image-141"/></figure>
+
+
+
+<p>Trên blog này, bạn sẽ tìm thấy các bài viết, kinh nghiệm bản thân và đánh giá về những kiến thức, kinh nghiệm và trải nghiệm của mình trong lĩnh vực Công nghê thông tin, từ trí tuệ nhân tạo đến lập trình web, từ Internet of Things đến công nghệ cloud và nhiều hơn nữa. Tôi hy vọng rằng những thông tin và ý kiến mà tôi chia sẻ sẽ giúp bạn hiểu rõ hơn về thế giới số đang phát triển xung quanh chúng ta.</p>
+
+
+
+<p>Ngoài ra, tôi cũng rất mong được kết nối và trao đổi ý kiến với cộng đồng. Hãy để lại bình luận, góp ý hoặc câu hỏi của bạn dưới mỗi bài viết, và chúng ta có thể cùng nhau khám phá và học hỏi về thế giới công nghệ ngày càng mở rộng này.</p>
+
+
+
+<p>Hãy cùng nhau trải nghiệm cuộc hành trình này, đắm mình trong biển thông tin vô tận của Công Nghệ Thông Tin, và cùng nhau khám phá những tiềm năng không ngừng của thế giới số!</p>
+
+
+
+<p>Cảm ơn tất cả mọi người ghé thăm blog của tôi!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/15/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

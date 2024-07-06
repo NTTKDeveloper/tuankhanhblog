@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Internet of Things &#8211; Tuấn Khanh Blog</title>
+	<atom:link href="http://localhost/tuankhanhblog/tag/internet-of-things/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/tuankhanhblog</link>
+	<description>Chia sẽ kiến thức, kinh nghiệm về ngành Công nghệ thông tin</description>
+	<lastBuildDate>Fri, 24 May 2024 10:20:25 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>http://localhost/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
+	<title>Internet of Things &#8211; Tuấn Khanh Blog</title>
+	<link>http://localhost/tuankhanhblog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sử dụng thư viện Low Power để hạ lượng điện tiêu thụ của arduino</title>
+		<link>http://localhost/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/</link>
+					<comments>http://localhost/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/#comments</comments>
+		
+		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
+		<pubDate>Fri, 24 May 2024 10:20:25 +0000</pubDate>
+				<category><![CDATA[arrduino]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[Internet of Things]]></category>
+		<category><![CDATA[IOT]]></category>
+		<guid isPermaLink="false">https://itblog.id.vn/?p=70</guid>
+
+					<description><![CDATA[&#160;Table of Content: Giới thiệu: Vấn đề tiêu thụ điện năng của bộ điều khiển là mối quan tâm hàng đầu trong thiết kế công suất thấp. Bo mạch Arduino thường được sử dụng trong các thiết bị sử dụng pin hoặc sạc năng lượng mặt trời. Những thiết bị như vậy thường cách xa [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image aligncenter size-full"><img fetchpriority="high" decoding="async" width="600" height="250" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-8.png" alt="" class="wp-image-106"/></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>&nbsp;Table of Content</strong>:</h2>
+
+
+
+<div class="wp-block-aioseo-table-of-contents"><ul><li><a href="#aioseo-gii-thiu">Gi&#x1EDB;i thi&#x1EC7;u:</a><ul><li><a href="#aioseo-chn-dung-bo-mch-arduino-cho-d-an">Ch&#x1ECD;n &#x111;&#xFA;ng bo m&#x1EA1;ch Arduino cho d&#x1EF1; &#xE1;n:</a></li></ul></li><li><a href="#aioseo-ch-d-nang-lng-thp-cho-arduino">Ch&#x1EBF; &#x111;&#x1ED9; n&#x103;ng l&#x1B0;&#x1EE3;ng th&#x1EA5;p cho Arduino:</a><ul><li><a href="#aioseo-ch-d-nhan-ri-idle-mode">Ch&#x1EBF; &#x111;&#x1ED9; nh&#xE0;n r&#x1ED7;i (Idle Mode):</a></li><li><a href="#aioseo-ch-d-gim-nhiu-adc-adc-noise-reduction-mode">Ch&#x1EBF; &#x111;&#x1ED9; gi&#x1EA3;m nhi&#x1EC5;u ADC (ADC Noise Reduction Mode).</a></li><li><a href="#aioseo-ch-d-tt-ngun-power-down-mode">Ch&#x1EBF; &#x111;&#x1ED9; t&#x1EAF;t ngu&#x1ED3;n (Power-Down Mode).</a></li><li><a href="#aioseo-ch-d-tit-kim-nang-lng-power-save-mode">Ch&#x1EBF; &#x111;&#x1ED9; ti&#x1EBF;t ki&#x1EC7;m n&#x103;ng l&#x1B0;&#x1EE3;ng (Power-Save Mode):</a></li><li><a href="#aioseo-ch-d-ch-standby-mode">Ch&#x1EBF; &#x111;&#x1ED9; ch&#x1EDD; (Standby Mode).</a></li><li><a href="#aioseo-ch-d-ch-m-rng-extended-standby-mode">Ch&#x1EBF; &#x111;&#x1ED9; ch&#x1EDD; m&#x1EDF; r&#x1ED9;ng (Extended Standby Mode).</a></li></ul></li><li><a href="#aioseo-kt-lun">K&#x1EBF;t lu&#x1EAD;n:</a></li></ul></div>
+
+
+
+<h2 class="wp-block-heading" id="aioseo-gii-thiu">Giới thiệu:</h2>
+
+
+
+<p>Vấn đề tiêu thụ điện năng của bộ điều khiển là mối quan tâm hàng đầu trong thiết kế công suất thấp. Bo mạch Arduino thường được sử dụng trong các thiết bị sử dụng pin hoặc sạc năng lượng mặt trời. Những thiết bị như vậy thường cách xa đường dây điện để thay pin định kỳ hoặc là thiết bị di động được thiết kế cho chu kỳ sạc định kỳ. Trong trường hợp như vậy, việc tối ưu hóa Arduino để tiêu thụ điện năng thấp là điều cần thiết. Tối ưu hóa Arduino cũng giúp đảm bảo rằng toàn bộ mạch được sử dụng hiệu quả nhất. Một số biện pháp có thể được áp dụng để giảm mức tiêu thụ điiện năng chung của bộ điều khiển. Tuynhiên, mức tiêu thụ điện năng thực của thiết bị vẫn phụ thuộc vào các thành phần ngoại vi kết nối tới vi điều khiển.</p>
+
+
+
+<p>Có một số thủ thuật, mà các nhà thiết kế sử dụng để giảm mức tiêu thụ điện năng của bo mạch Arduino. Khi ưu tiên thiết kế công suất thấp, trước tiên các nhà thiết kế sẽ chọn bo mạch Arduino có điện áo hoạt động thấp hơn. Việc lựa chọn bo mạch Arduino không thể chỉ dựa trên điện áp hoạt động hoặc mức tiêu thụ điện năng. Thông thường, Arduino công suất thấp có thể không phù hợp với một số ứng dụng cụ thể. Các mạch arduino công suất thấp thường có ít tính năng phần cứng hơn, hoặc ít GPIO (kích thước thường sẽ nhỏ hơn). Bất kể bo mạch Arduino được chọn cho một ứng dụng nhất định, các nhà thiết kế hầu như sử dụng chế độ ngủ hoặc chế độ tiết kiệm năng lượng của arduino để tối ưu hóa mức tiêu thụ điện năng.</p>
+
+
+
+<p>Ngoài việc chọn Arduino công suất thấp và sử dụng các chế độ tiết kiệm năng lượng, một số thủ thuật phần mềm và phần cứng có thể sử dụng để tiết kiệm năng lượng. Các phương pháp đó bao gồm: </p>
+
+
+
+<ul>
+<li>Giảm tốt độ xung nhịp.</li>
+
+
+
+<li>Giảm điện áp hoạt động.</li>
+
+
+
+<li>Tối ưu mã phần mềm.</li>
+</ul>
+
+
+
+<p>Mọi người lưu ý rằng việc can thiệp phần mềm không làm ảnh hưởng đến hiệu suất dự kiến của ứng dụng.</p>
+
+
+
+<h3 class="wp-block-heading" id="aioseo-chn-dung-bo-mch-arduino-cho-d-an">Chọn đúng bo mạch Arduino cho dự án:</h3>
+
+
+
+<p>Đầu tiên, bo mạch Arduino nhỏ nhất phù hợp với yêu cầu phải được chọn cho thiết kế tiêu thụ điện năng thấp. Nếu ứng dụng không có nhiều thành phần bên ngoài thì nên sử dụng Arduino nano hoặc Arduino Pro mini thay vì Arduino UNO hoặc Mega. Thông thường, Arduino Nano có mức tiêu thụ điện năng từ 20-30mA khi được cấp nguồn bằng pin 9V. Trong cùng một ứng dụng, Arduino Pro mini có thể tiêu thụ điện năng là 15-20mA. Arduino Pro mini 3V3 có mức tiêu thụ điện năng dưới 10mA. Nếu có một ứng dụng yêu cầu nhiều GPIO hoặc nhiều tính năng của vi điều khiển thì chỉ chọn Arduino UNO hoặc MEGA.</p>
+
+
+
+<p>Điều thú vị là Arduino MEGA có nhiều GPIO và thiết bị ngoại vi tích hợp hơn, nhưng mức tiêu thụ điện năng của nó ít hơn 1/3 so với Arduino UNO. Tiêu thụ năng lượng của Arduino UNO thường là 100-120mA, trong khi đó MEGA chỉ có thể tiêu thụ ở trong khoảng 70-80mA cho cùng một ứng dụng. Ok không dài dòng nữa bây giờ chúng ta sẽ đến với thư viện Low Power.</p>
+
+
+
+<h2 class="wp-block-heading" id="aioseo-ch-d-nang-lng-thp-cho-arduino">Chế độ năng lượng thấp cho Arduino:</h2>
+
+
+
+<p>Cấc tốt nhất để giảm mức tiêu thụ điện năng của ứng dụng chạy pin là sử dụng chế dộ tiết kiệm năng lượng. Mỗi bộ vi điều khiển đều có chế độ ngủ hoặc chế độ tiết kiệm điện. Hầu như các bo mạch Arduino đều dựa trên bộ điều khiển ATmega328P, cung cấp sáu chế độ tiết kiệm năng lượng. Đây còn được gọi là chế độ ngủ hoặc chế độ chờ. Các chế độ này có thể được kích hoạt với sự trợ giúp của thư viện <a href="https://github.com/rocketscream/Low-Power" target="_blank" rel="noopener" title="">LowPower.h</a>. Sáu chế độ tiết kiệm năng lượng trong Arduino là:</p>
+
+
+
+<ul>
+<li>Chế độ nhàn rỗi (<strong>Idle Mode</strong>).</li>
+
+
+
+<li>Chế độ giảm nhiễu ADC (<strong>ADC Noise Reduction Mode</strong>).</li>
+
+
+
+<li>Chế độ tắt nguồn (<strong>Power-Down Mode</strong>).</li>
+
+
+
+<li>Chế độ tiết kiệm năng lượng (<strong>Power-Save Mode</strong>).</li>
+
+
+
+<li>Chế độ chờ (<strong>Standby Mode</strong>).</li>
+
+
+
+<li>Chế độ chờ mở rộng (<strong>Extended Standby Mode</strong>)</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="aioseo-ch-d-nhan-ri-idle-mode">Chế độ nhàn rỗi (<strong>Idle Mode</strong>):</h3>
+
+
+
+<p>Chế độ này cho phép dừng CPU nhưng vẫn có thể sử dụng <strong>SPI, USART, Watchdog, Timer, bộ so sánh tương tự</strong> vẫn có thể hoạt động.</p>
+
+
+
+<p>CODE:</p>
+
+
+
+<pre class="wp-block-code"><code>LowPower.idle(SLEEP_8S, ADC_OFF, TIMER2_OFF, TIMER1_OFF, TIMER0_OFF, SPI_OFF, USART0_OFF, TWI_OFF);</code></pre>
+
+
+
+<h3 class="wp-block-heading" id="aioseo-ch-d-gim-nhiu-adc-adc-noise-reduction-mode">Chế độ giảm nhiễu ADC (<strong>ADC Noise Reduction Mode</strong>).</h3>
+
+
+
+<p>Trong chế độ này, nó dừng CPU nhưng cho phép ADC, ngắt ngoài, USART, Watchdog và Timer hoạt động. Chúng ta có thể đánh thức arduino bằng cách:</p>
+
+
+
+<ul>
+<li>External Reset</li>
+
+
+
+<li>Watchdog System Reset</li>
+
+
+
+<li>Watchdog Interrupt</li>
+
+
+
+<li>Brown-out Reset</li>
+
+
+
+<li>2-wire Serial Interface address match</li>
+
+
+
+<li>External level interrupt on INT</li>
+
+
+
+<li>Pin change interrupt</li>
+
+
+
+<li>Timer/Counter interrupt</li>
+
+
+
+<li>SPM/EEPROM ready interrupt</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="aioseo-ch-d-tt-ngun-power-down-mode">Chế độ tắt nguồn (<strong>Power-Down Mode</strong>).</h3>
+
+
+
+<p>Trong chế độ này, bộ dao động ngoài bị TẮT, nhưng ngắt ngoài vẫn hoạt động. Nó chỉ có thể bị đánh thức bởi một trong các phương pháp dưới đây:</p>
+
+
+
+<ul>
+<li>External Reset</li>
+
+
+
+<li>Watchdog System Reset</li>
+
+
+
+<li>Watchdog Interrupt</li>
+
+
+
+<li>Brown-out Reset</li>
+
+
+
+<li>2-wire Serial Interface address match</li>
+
+
+
+<li>External level interrupt on INT</li>
+
+
+
+<li>Pin change interrupt</li>
+</ul>
+
+
+
+<p>Hàm để sử dụng cho chế độ ngủ này:</p>
+
+
+
+<p>CODE:</p>
+
+
+
+<pre class="wp-block-code"><code>void loop()
+{
+ // Allow wake up pin to trigger interrupt on low.
+attachInterrupt(0, wakeUp, LOW);
+ LowPower.powerDown(SLEEP_FOREVER, ADC_OFF, BOD_OFF);
+ // Disable external pin interrupt on wake up pin.
+detachInterrupt(0);
+ // Do something here
+}</code></pre>
+
+
+
+<h3 class="wp-block-heading" id="aioseo-ch-d-tit-kim-nang-lng-power-save-mode">Chế độ tiết kiệm năng lượng (<strong>Power-Save Mode</strong>):</h3>
+
+
+
+<p>Chế độ ngủ này của arduino tương tự như chế độ Power-down, nếu bộ hẹn giờ hoặc bộ đếm được bật, nó sẽ ở trạng thái chạy ngay cả khi ngủ. Thiết bị có thể được đánh thức bằng cách sử dụng bộ đếm thời gian cho đến lúc nó bị tràn.</p>
+
+
+
+<p>Nếu bạn không sử dụng bộ hẹn giờ hoặc bộ đếm, bạn nên sử dụng chế độ Power-down, thay vì chế độ Power-save.</p>
+
+
+
+<h3 class="wp-block-heading" id="aioseo-ch-d-ch-standby-mode">Chế độ chờ (<strong>Standby Mode</strong>).</h3>
+
+
+
+<p>Chế độ chờ giống hệt với chế độ Power-save, sự khác biệt duy nhất giữa chúng là bộ dao động ngoài vẫn tiếp tục chạy ở chế độ này.</p>
+
+
+
+<h3 class="wp-block-heading" id="aioseo-ch-d-ch-m-rng-extended-standby-mode">Chế độ chờ mở rộng (<strong>Extended Standby Mode</strong>).</h3>
+
+
+
+<p>Chế độ này tương tự như chế độ Power-save, chỉ với một ngoại lệ là bộ dao động tiếp tục chạy ở chế độ này. Thiết bị sẽ mất 6 chu kỳ để thức dậy tự chế độ Standby.</p>
+
+
+
+<h2 class="wp-block-heading" id="aioseo-kt-lun">Kết luận:</h2>
+
+
+
+<p>Thiết kế năng lượng thấp là mối quan tâm đáng kể trong các thiết bị nhúng chạy bằng pin. Arduino có thể được tối ưu hóa cho các ứng dụng tiêu thụ điện năng thấp bằng cách chọn Arduino công suất thấp, sử dụng các chế độ tiết kiệm năng lượng, giảm tốc độ xung nhịp, giảm điện áp hoạt động, vô hiệu hóa các thiết bị ngoại vi được sử dụng trong bản phác thảo Arduino và loại bỏ các thành phần bổ sung khỏi Arduino PCB.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ưu, nhược điểm của mắc nối tiếp và song song các tấm pin mặt trời?</title>
+		<link>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/</link>
+					<comments>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/#comments</comments>
+		
+		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 13:13:31 +0000</pubDate>
+				<category><![CDATA[arrduino]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[Internet of Things]]></category>
+		<category><![CDATA[IOT]]></category>
+		<category><![CDATA[Pin năng lượng mặt trời]]></category>
+		<guid isPermaLink="false">https://itblog.id.vn/?p=78</guid>
+
+					<description><![CDATA[Nối tiếp và song song là các phương thức kết nối phổ biến trong các hệ thống tấm pin mặt trời, mỗi phương thức đều có ưu điểm và nhược điểm riêng. Hiểu đặc điểm của chúng là rất quan trọng để chọn phương thức kết nối phù hợp. Đầu tiên, chúng ta hãy xem [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Nối tiếp và song song là các phương thức kết nối phổ biến trong các hệ thống tấm pin mặt trời, mỗi phương thức đều có ưu điểm và nhược điểm riêng. Hiểu đặc điểm của chúng là rất quan trọng để chọn phương thức kết nối phù hợp.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Đầu tiên, chúng ta hãy xem xét những ưu điểm và nhược điểm của kết nối nối tiếp.</strong></h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="540" height="221" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-5.png" alt="" class="wp-image-79"/></figure>
+
+
+
+<p>Một trong những ưu điểm của kết nối nối tiếp là nó có thể tăng tổng công suất đầu ra mà không cần phải thay dây đầu ra dày hơn. Điều này có nghĩa là dây và thiết bị hiện có có thể được sử dụng để mang công suất đầu ra lớn hơn. Ví dụ: nếu bạn có hai tấm pin mặt trời 12V, việc kết nối chúng nối tiếp sẽ cung cấp cho bạn điện áp đầu ra 24V mà không cần phải thay thế bộ điều khiển pin 12V ban đầu. Phương pháp này có thể tiết kiệm chi phí và công sức.</p>
+
+
+
+<p>Tuy nhiên, việc kết nối nối tiếp cũng có thể gây ra một số hậu quả. Khi hai bảng được mắc nối tiếp, nếu một trong số chúng bị bóng mờ hoặc hư hỏng và mất khả năng phát điện thì toàn bộ mạch sẽ bị gián đoạn, ngừng cung cấp điện cho tải bên ngoài. Nó tương tự như trường hợp các thiết bị khác trong mạch nối tiếp bị hỏng khiến toàn bộ mạch trở thành mạch hở. Vì vậy, khi sử dụng kết nối nối tiếp, điều quan trọng là phải đảm bảo rằng mỗi bảng hoạt động bình thường để tránh làm gián đoạn toàn bộ mạch điện.</p>
+
+
+
+<h2 class="wp-block-heading">Bây giờ chúng ta hãy xem xét những ưu điểm và nhược điểm của kết nối song song.</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="543" height="240" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-7.png" alt="" class="wp-image-82"/></figure>
+
+
+
+<p>Ưu điểm của kết nối song song là miễn là các tấm pin có cùng điện áp đầu ra thì có thể kết nối song song với bộ điều khiển để sử dụng. Trong một kết nối song song, sức mạnh của tất cả các bảng sẽ tăng lên. Ví dụ: nếu bạn kết nối song song bảng 50W và bảng 100W, công suất đầu ra của chúng sẽ vào khoảng 150W. Phương pháp này có thể tăng tổng công suất đầu ra mà không ảnh hưởng đến điện áp chung.</p>
+
+
+
+<p>Không giống như kết nối nối tiếp, nếu một bảng trong kết nối song song bị hỏng và trở thành mạch hở, nó sẽ không ảnh hưởng đến điện áp chung mà chỉ ảnh hưởng đến nguồn điện. Điều này có nghĩa là các tấm nền khác vẫn có thể tiếp tục hoạt động, đảm bảo sự ổn định và tin cậy của hệ thống.</p>
+
+
+
+<p>Tóm lại, kết nối nối tiếp có thể tăng tổng công suất đầu ra, trong khi kết nối song song có thể duy trì cùng công suất đầu ra và tăng tổng điện áp đầu ra. Việc lựa chọn phương pháp kết nối phù hợp phụ thuộc vào yêu cầu cụ thể và thiết kế hệ thống. Cho dù bạn chọn kết nối nối tiếp hay song song, điều quan trọng là phải đảm bảo rằng mỗi bảng điều khiển đều hoạt động bình thường để đảm bảo sự ổn định và độ tin cậy của hệ thống.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
