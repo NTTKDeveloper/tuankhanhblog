@@ -9,8 +9,8 @@
 
 <channel>
 	<title>giới thiệu &#8211; Tuấn Khanh Blog</title>
-	<atom:link href="http://localhost/tuankhanhblog/category/gioi-thieu/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/tuankhanhblog</link>
+	<atom:link href="https://nttkdeveloper.github.io/tuankhanhblog/category/gioi-thieu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<description>Chia sẽ kiến thức, kinh nghiệm về ngành Công nghệ thông tin</description>
 	<lastBuildDate>Wed, 15 May 2024 03:57:05 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>http://localhost/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
+	<url>https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
 	<title>giới thiệu &#8211; Tuấn Khanh Blog</title>
-	<link>http://localhost/tuankhanhblog</link>
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Giới thiệu về bản thân</title>
-		<link>http://localhost/tuankhanhblog/2024/05/15/hello-world/</link>
-					<comments>http://localhost/tuankhanhblog/2024/05/15/hello-world/#respond</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/15/hello-world/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/15/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Wed, 15 May 2024 03:57:05 +0000</pubDate>
@@ -47,7 +47,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1832" height="1374" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/20240526_105822.jpg" alt="" class="wp-image-141"/></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1832" height="1374" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/20240526_105822.jpg" alt="" class="wp-image-141"/></figure>
 
 
 
@@ -66,7 +66,7 @@
 <p>Cảm ơn tất cả mọi người ghé thăm blog của tôi!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/15/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/15/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>arrduino &#8211; Tuấn Khanh Blog</title>
-	<atom:link href="http://localhost/tuankhanhblog/tag/arrduino/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/tuankhanhblog</link>
+	<atom:link href="https://nttkdeveloper.github.io/tuankhanhblog/tag/arrduino/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<description>Chia sẽ kiến thức, kinh nghiệm về ngành Công nghệ thông tin</description>
 	<lastBuildDate>Wed, 29 May 2024 09:41:57 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>http://localhost/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
+	<url>https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
 	<title>arrduino &#8211; Tuấn Khanh Blog</title>
-	<link>http://localhost/tuankhanhblog</link>
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Sử dụng pin năng lượng mặt trời cho Arduino</title>
-		<link>http://localhost/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/</link>
-					<comments>http://localhost/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/#respond</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/#respond</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Wed, 29 May 2024 09:41:57 +0000</pubDate>
@@ -41,7 +41,7 @@
 
 					<description><![CDATA[Table of Contents: Giới thiệu: Pin năng lượng mặt trời, còn gọi là tấm pin quang điện, là thiết bị chuyển đổi ánh sáng mặt trời thành điện năng thông qua hiệu ứng quang điện. Khi được chiếu sáng, các tế bào quang điện trong tấm pin sẽ tạo ra dòng điện một chiều. Đối [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1832" height="673" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/20240526_10582211.jpg" alt="backgorund image" class="wp-image-125"/></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1832" height="673" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/20240526_10582211.jpg" alt="backgorund image" class="wp-image-125"/></figure>
 
 
 
@@ -115,7 +115,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1152" height="648" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/mach-pin-mat-troi.jpg" alt="" class="wp-image-132"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1152" height="648" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/mach-pin-mat-troi.jpg" alt="" class="wp-image-132"/></figure>
 
 
 
@@ -143,7 +143,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" width="1152" height="517" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Bo-on-dinh-dien-ap-cho-pin-nang-luong-mat-troi1.jpg" alt="Bo-on-dinh-dien-ap-cho-pin-nang-luong-mat-troi1.jpg" class="wp-image-144" style="width:840px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="1152" height="517" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Bo-on-dinh-dien-ap-cho-pin-nang-luong-mat-troi1.jpg" alt="Bo-on-dinh-dien-ap-cho-pin-nang-luong-mat-troi1.jpg" class="wp-image-144" style="width:840px;height:auto"/></figure>
 
 
 
@@ -151,7 +151,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1080" height="1080" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/mach-cn3065.jpg" alt="" class="wp-image-145"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1080" height="1080" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/mach-cn3065.jpg" alt="" class="wp-image-145"/></figure>
 
 
 
@@ -166,7 +166,7 @@
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/LK1jLZdf7Jg?si=KAkzHYJZyvoQ6qtt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

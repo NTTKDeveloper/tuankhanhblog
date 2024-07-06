@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Bình luận cho Tuấn Khanh Blog	</title>
-	<atom:link href="http://localhost/tuankhanhblog/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/tuankhanhblog</link>
+	<atom:link href="https://nttkdeveloper.github.io/tuankhanhblog/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<description>Chia sẽ kiến thức, kinh nghiệm về ngành Công nghệ thông tin</description>
 	<lastBuildDate>Wed, 29 May 2024 09:42:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Bình luận cho Sử dụng thư viện Low Power để hạ lượng điện tiêu thụ của arduino bởi Sử dụng pin năng lượng mặt trời cho Arduino - Tuấn Khanh IT Blog		</title>
-		<link>http://localhost/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/#comment-2</link>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/#comment-2</link>
 
 		<dc:creator><![CDATA[Sử dụng pin năng lượng mặt trời cho Arduino - Tuấn Khanh IT Blog]]></dc:creator>
 		<pubDate>Wed, 29 May 2024 09:42:29 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		Bình luận cho Ưu, nhược điểm của mắc nối tiếp và song song các tấm pin mặt trời? bởi Sử dụng pin năng lượng mặt trời cho Arduino - Tuấn Khanh IT Blog		</title>
-		<link>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/#comment-3</link>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/#comment-3</link>
 
 		<dc:creator><![CDATA[Sử dụng pin năng lượng mặt trời cho Arduino - Tuấn Khanh IT Blog]]></dc:creator>
 		<pubDate>Wed, 29 May 2024 09:42:04 +0000</pubDate>

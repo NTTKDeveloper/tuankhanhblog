@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Pin năng lượng mặt trời &#8211; Tuấn Khanh Blog</title>
-	<atom:link href="http://localhost/tuankhanhblog/tag/pin-nang-luong-mat-troi/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/tuankhanhblog</link>
+	<atom:link href="https://nttkdeveloper.github.io/tuankhanhblog/tag/pin-nang-luong-mat-troi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<description>Chia sẽ kiến thức, kinh nghiệm về ngành Công nghệ thông tin</description>
 	<lastBuildDate>Thu, 23 May 2024 13:13:31 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>http://localhost/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
+	<url>https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
 	<title>Pin năng lượng mặt trời &#8211; Tuấn Khanh Blog</title>
-	<link>http://localhost/tuankhanhblog</link>
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ưu, nhược điểm của mắc nối tiếp và song song các tấm pin mặt trời?</title>
-		<link>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/</link>
-					<comments>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/#comments</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/#comments</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Thu, 23 May 2024 13:13:31 +0000</pubDate>
@@ -52,7 +52,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="540" height="221" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-5.png" alt="" class="wp-image-79"/></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="540" height="221" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-5.png" alt="" class="wp-image-79"/></figure>
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="543" height="240" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-7.png" alt="" class="wp-image-82"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="543" height="240" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-7.png" alt="" class="wp-image-82"/></figure>
 
 
 
@@ -83,7 +83,7 @@
 <p>Tóm lại, kết nối nối tiếp có thể tăng tổng công suất đầu ra, trong khi kết nối song song có thể duy trì cùng công suất đầu ra và tăng tổng điện áp đầu ra. Việc lựa chọn phương pháp kết nối phù hợp phụ thuộc vào yêu cầu cụ thể và thiết kế hệ thống. Cho dù bạn chọn kết nối nối tiếp hay song song, điều quan trọng là phải đảm bảo rằng mỗi bảng điều khiển đều hoạt động bình thường để đảm bảo sự ổn định và độ tin cậy của hệ thống.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

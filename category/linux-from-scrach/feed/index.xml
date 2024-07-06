@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Linux from scrach &#8211; Tuấn Khanh Blog</title>
-	<atom:link href="http://localhost/tuankhanhblog/category/linux-from-scrach/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/tuankhanhblog</link>
+	<atom:link href="https://nttkdeveloper.github.io/tuankhanhblog/category/linux-from-scrach/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<description>Chia sẽ kiến thức, kinh nghiệm về ngành Công nghệ thông tin</description>
 	<lastBuildDate>Fri, 17 May 2024 08:44:15 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>http://localhost/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
+	<url>https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
 	<title>Linux from scrach &#8211; Tuấn Khanh Blog</title>
-	<link>http://localhost/tuankhanhblog</link>
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Biên dịch nhân Linux và tạo ISO có thể khởi động</title>
-		<link>http://localhost/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/</link>
-					<comments>http://localhost/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/#respond</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/#respond</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Fri, 17 May 2024 08:44:15 +0000</pubDate>
@@ -136,7 +136,7 @@ make -j $(nproc)</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1098" height="629" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-11-16.png" alt="" class="wp-image-44"/></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1098" height="629" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-11-16.png" alt="" class="wp-image-44"/></figure>
 
 
 
@@ -172,11 +172,11 @@ make menuconfig</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1913" height="1026" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-18-23.png" alt="" class="wp-image-45"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1913" height="1026" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-18-23.png" alt="" class="wp-image-45"/></figure>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1913" height="1026" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-20-44.png" alt="" class="wp-image-46"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1913" height="1026" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-20-44.png" alt="" class="wp-image-46"/></figure>
 
 
 
@@ -205,7 +205,7 @@ make menuconfig</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1918" height="151" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-23-15.png" alt="" class="wp-image-47"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1918" height="151" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-23-15.png" alt="" class="wp-image-47"/></figure>
 
 
 
@@ -225,7 +225,7 @@ make menuconfig</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1918" height="346" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-26-30.png" alt="" class="wp-image-50"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1918" height="346" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-26-30.png" alt="" class="wp-image-50"/></figure>
 
 
 
@@ -288,7 +288,7 @@ exec /bin/sh</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="740" height="471" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-43-08.png" alt="" class="wp-image-54"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="740" height="471" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-43-08.png" alt="" class="wp-image-54"/></figure>
 
 
 
@@ -316,7 +316,7 @@ exec /bin/sh</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="719" height="563" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image.png" alt="" class="wp-image-59"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="719" height="563" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image.png" alt="" class="wp-image-59"/></figure>
 
 
 
@@ -386,15 +386,15 @@ menuentry 'myos' --class os {
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="720" height="475" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-1.png" alt="" class="wp-image-61"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="720" height="475" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-1.png" alt="" class="wp-image-61"/></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="718" height="473" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-2.png" alt="" class="wp-image-62"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="718" height="473" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-2.png" alt="" class="wp-image-62"/></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1022" height="839" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-3.png" alt="" class="wp-image-63"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1022" height="839" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-3.png" alt="" class="wp-image-63"/></figure>
 
 
 
@@ -422,7 +422,7 @@ menuentry 'myos' --class os {
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1278" height="791" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-4.png" alt="" class="wp-image-64"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1278" height="791" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-4.png" alt="" class="wp-image-64"/></figure>
 
 
 
@@ -459,7 +459,7 @@ menuentry 'myos' --class os {
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

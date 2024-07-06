@@ -9,8 +9,8 @@
 
 <channel>
 	<title>IOT &#8211; Tuấn Khanh Blog</title>
-	<atom:link href="http://localhost/tuankhanhblog/tag/iot/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/tuankhanhblog</link>
+	<atom:link href="https://nttkdeveloper.github.io/tuankhanhblog/tag/iot/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<description>Chia sẽ kiến thức, kinh nghiệm về ngành Công nghệ thông tin</description>
 	<lastBuildDate>Fri, 24 May 2024 10:20:25 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>http://localhost/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
+	<url>https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
 	<title>IOT &#8211; Tuấn Khanh Blog</title>
-	<link>http://localhost/tuankhanhblog</link>
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Sử dụng thư viện Low Power để hạ lượng điện tiêu thụ của arduino</title>
-		<link>http://localhost/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/</link>
-					<comments>http://localhost/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/#comments</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/#comments</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Fri, 24 May 2024 10:20:25 +0000</pubDate>
@@ -42,7 +42,7 @@
 
 					<description><![CDATA[&#160;Table of Content: Giới thiệu: Vấn đề tiêu thụ điện năng của bộ điều khiển là mối quan tâm hàng đầu trong thiết kế công suất thấp. Bo mạch Arduino thường được sử dụng trong các thiết bị sử dụng pin hoặc sạc năng lượng mặt trời. Những thiết bị như vậy thường cách xa [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image aligncenter size-full"><img fetchpriority="high" decoding="async" width="600" height="250" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-8.png" alt="" class="wp-image-106"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img fetchpriority="high" decoding="async" width="600" height="250" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-8.png" alt="" class="wp-image-106"/></figure>
 
 
 
@@ -289,15 +289,15 @@ detachInterrupt(0);
 <p>Thiết kế năng lượng thấp là mối quan tâm đáng kể trong các thiết bị nhúng chạy bằng pin. Arduino có thể được tối ưu hóa cho các ứng dụng tiêu thụ điện năng thấp bằng cách chọn Arduino công suất thấp, sử dụng các chế độ tiết kiệm năng lượng, giảm tốc độ xung nhịp, giảm điện áp hoạt động, vô hiệu hóa các thiết bị ngoại vi được sử dụng trong bản phác thảo Arduino và loại bỏ các thành phần bổ sung khỏi Arduino PCB.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ưu, nhược điểm của mắc nối tiếp và song song các tấm pin mặt trời?</title>
-		<link>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/</link>
-					<comments>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/#comments</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/#comments</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Thu, 23 May 2024 13:13:31 +0000</pubDate>
@@ -319,7 +319,7 @@ detachInterrupt(0);
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="540" height="221" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-5.png" alt="" class="wp-image-79"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="540" height="221" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-5.png" alt="" class="wp-image-79"/></figure>
 
 
 
@@ -335,7 +335,7 @@ detachInterrupt(0);
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="543" height="240" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-7.png" alt="" class="wp-image-82"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="543" height="240" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-7.png" alt="" class="wp-image-82"/></figure>
 
 
 
@@ -350,7 +350,7 @@ detachInterrupt(0);
 <p>Tóm lại, kết nối nối tiếp có thể tăng tổng công suất đầu ra, trong khi kết nối song song có thể duy trì cùng công suất đầu ra và tăng tổng điện áp đầu ra. Việc lựa chọn phương pháp kết nối phù hợp phụ thuộc vào yêu cầu cụ thể và thiết kế hệ thống. Cho dù bạn chọn kết nối nối tiếp hay song song, điều quan trọng là phải đảm bảo rằng mỗi bảng điều khiển đều hoạt động bình thường để đảm bảo sự ổn định và độ tin cậy của hệ thống.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

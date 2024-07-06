@@ -9,8 +9,8 @@
 
 <channel>
 	<title>tuankhanh &#8211; Tuấn Khanh Blog</title>
-	<atom:link href="http://localhost/tuankhanhblog/author/tuankhanh/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/tuankhanhblog</link>
+	<atom:link href="https://nttkdeveloper.github.io/tuankhanhblog/author/tuankhanh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<description>Chia sẽ kiến thức, kinh nghiệm về ngành Công nghệ thông tin</description>
 	<lastBuildDate>Sun, 30 Jun 2024 04:43:21 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>http://localhost/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
+	<url>https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
 	<title>tuankhanh &#8211; Tuấn Khanh Blog</title>
-	<link>http://localhost/tuankhanhblog</link>
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Thuật toán PID là gì ? PID Controller có vai trò gì trong điều khiển tự động</title>
-		<link>http://localhost/tuankhanhblog/2024/06/30/thuat-toan-pid-la-gi-pid-controller-co-vai-tro-gi-trong-dieu-khien-tu-dong/</link>
-					<comments>http://localhost/tuankhanhblog/2024/06/30/thuat-toan-pid-la-gi-pid-controller-co-vai-tro-gi-trong-dieu-khien-tu-dong/#respond</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/06/30/thuat-toan-pid-la-gi-pid-controller-co-vai-tro-gi-trong-dieu-khien-tu-dong/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/06/30/thuat-toan-pid-la-gi-pid-controller-co-vai-tro-gi-trong-dieu-khien-tu-dong/#respond</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Sun, 30 Jun 2024 04:43:21 +0000</pubDate>
@@ -71,7 +71,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1280" height="720" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/image.png" alt="Thuật toán PID là gì" class="wp-image-188"/></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1280" height="720" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/image.png" alt="Thuật toán PID là gì" class="wp-image-188"/></figure>
 
 
 
@@ -87,7 +87,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1280" height="720" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/image-1.png" alt="Các thiết bị trong một hệ thống PID" class="wp-image-189"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1280" height="720" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/image-1.png" alt="Các thiết bị trong một hệ thống PID" class="wp-image-189"/></figure>
 
 
 
@@ -117,7 +117,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1280" height="720" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/image-2.png" alt="Hệ thống PID sơ khai
+<figure class="wp-block-image size-full"><img decoding="async" width="1280" height="720" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/image-2.png" alt="Hệ thống PID sơ khai
 " class="wp-image-191"/></figure>
 
 
@@ -146,7 +146,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/image-3.png" alt="Thông số P,I,D có nghĩa là gì?" class="wp-image-192"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/image-3.png" alt="Thông số P,I,D có nghĩa là gì?" class="wp-image-192"/></figure>
 
 
 
@@ -174,7 +174,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/image-4.png" alt="Xác đinh chỉ số KP, KD, KI" class="wp-image-193"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/image-4.png" alt="Xác đinh chỉ số KP, KD, KI" class="wp-image-193"/></figure>
 
 
 
@@ -194,7 +194,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/image-5.png" alt="Xác định bằng phương pháp Ziegler – Nichols" class="wp-image-194"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/image-5.png" alt="Xác định bằng phương pháp Ziegler – Nichols" class="wp-image-194"/></figure>
 
 
 
@@ -206,7 +206,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/image-6.png" alt="Xác định bằng phần mềm matlab" class="wp-image-195"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/image-6.png" alt="Xác định bằng phần mềm matlab" class="wp-image-195"/></figure>
 
 
 
@@ -266,7 +266,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/image-7.png" alt="PID dùng để điều khiển mực nước" class="wp-image-196"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/image-7.png" alt="PID dùng để điều khiển mực nước" class="wp-image-196"/></figure>
 
 
 
@@ -298,7 +298,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="1280" height="720" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/image-8.png" alt="Điều khiển mực nước bằng thuật toán PID" class="wp-image-197" style="width:840px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="1280" height="720" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/image-8.png" alt="Điều khiển mực nước bằng thuật toán PID" class="wp-image-197" style="width:840px;height:auto"/></figure>
 
 
 
@@ -352,7 +352,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/image-9.png" alt="Điều khiển nhiệt độ bằng thuật toán PID" class="wp-image-198"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/image-9.png" alt="Điều khiển nhiệt độ bằng thuật toán PID" class="wp-image-198"/></figure>
 
 
 
@@ -376,7 +376,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/image-10.png" alt="Điều khiển áp suất bằng thuật toán PID" class="wp-image-199"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/image-10.png" alt="Điều khiển áp suất bằng thuật toán PID" class="wp-image-199"/></figure>
 
 
 
@@ -399,15 +399,15 @@
 <p>Trên đây là tất cả những nội dung <strong>PID là gì ?</strong> mà Trọng muốn chia sẻ đến các bạn. Mong rằng bài viết này sẽ giúp ích được các bạn trong qau trình làm việc và học tập. Và điều nữa là tât cả các thiết bị trên bên mình đều cung cấp. Bạn nào có như cầu sử dụng hoặc tìm hiểu thiết bị thì hãy hay liên hệ với mình. Mình sẽ cung cấp giải pháp miễn phí và các thiệt bị chính hãng từ Châu Âu cho mọi người. Cảm ơn các bạn đã theo dõi bài viết của Trọng. Chúc các bạn thành công!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/06/30/thuat-toan-pid-la-gi-pid-controller-co-vai-tro-gi-trong-dieu-khien-tu-dong/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/06/30/thuat-toan-pid-la-gi-pid-controller-co-vai-tro-gi-trong-dieu-khien-tu-dong/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cấu Trúc Dữ Liệu: 8 Cấu Trúc Phổ Biến Nhất Và Ứng Dụng</title>
-		<link>http://localhost/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/</link>
-					<comments>http://localhost/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/#respond</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/#respond</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Tue, 04 Jun 2024 09:00:33 +0000</pubDate>
@@ -445,7 +445,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><a href="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Bang-phan-loai-cac-loai-cau-truc-du-lieu.jpg"><img loading="lazy" decoding="async" width="793" height="449" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Bang-phan-loai-cac-loai-cau-truc-du-lieu.jpg" alt="" class="wp-image-162" style="width:844px;height:auto"/></a></figure>
+<figure class="wp-block-image size-full is-resized"><a href="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Bang-phan-loai-cac-loai-cau-truc-du-lieu.jpg"><img loading="lazy" decoding="async" width="793" height="449" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Bang-phan-loai-cac-loai-cau-truc-du-lieu.jpg" alt="" class="wp-image-162" style="width:844px;height:auto"/></a></figure>
 
 
 
@@ -529,7 +529,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="800" height="396" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Array.jpg" alt="" class="wp-image-167" style="width:839px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="800" height="396" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Array.jpg" alt="" class="wp-image-167" style="width:839px;height:auto"/></figure>
 
 
 
@@ -585,7 +585,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="396" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Array-1.jpg" alt="" class="wp-image-168"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="396" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Array-1.jpg" alt="" class="wp-image-168"/></figure>
 
 
 
@@ -649,7 +649,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="402" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/queue.jpg" alt="" class="wp-image-171"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="402" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/queue.jpg" alt="" class="wp-image-171"/></figure>
 
 
 
@@ -709,7 +709,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="400" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/stack.jpg" alt="" class="wp-image-172"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="400" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/stack.jpg" alt="" class="wp-image-172"/></figure>
 
 
 
@@ -765,7 +765,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="400" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Tree.jpg" alt="" class="wp-image-173"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="400" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Tree.jpg" alt="" class="wp-image-173"/></figure>
 
 
 
@@ -829,7 +829,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="782" height="404" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Graph.png" alt="" class="wp-image-175"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="782" height="404" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Graph.png" alt="" class="wp-image-175"/></figure>
 
 
 
@@ -1058,15 +1058,15 @@
 <p>Ở bài viết sau mình sẽ viết cụ thể hơn về từng loại cấu trúc dữ liệu và triễn khai nó trên ngôn ngữ C. Cảm ơn các bạn đã xem bài viết này! </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sử dụng pin năng lượng mặt trời cho Arduino</title>
-		<link>http://localhost/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/</link>
-					<comments>http://localhost/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/#respond</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/#respond</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Wed, 29 May 2024 09:41:57 +0000</pubDate>
@@ -1077,7 +1077,7 @@
 
 					<description><![CDATA[Table of Contents: Giới thiệu: Pin năng lượng mặt trời, còn gọi là tấm pin quang điện, là thiết bị chuyển đổi ánh sáng mặt trời thành điện năng thông qua hiệu ứng quang điện. Khi được chiếu sáng, các tế bào quang điện trong tấm pin sẽ tạo ra dòng điện một chiều. Đối [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1832" height="673" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/20240526_10582211.jpg" alt="backgorund image" class="wp-image-125"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1832" height="673" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/20240526_10582211.jpg" alt="backgorund image" class="wp-image-125"/></figure>
 
 
 
@@ -1151,7 +1151,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1152" height="648" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/mach-pin-mat-troi.jpg" alt="" class="wp-image-132"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1152" height="648" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/mach-pin-mat-troi.jpg" alt="" class="wp-image-132"/></figure>
 
 
 
@@ -1179,7 +1179,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="1152" height="517" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Bo-on-dinh-dien-ap-cho-pin-nang-luong-mat-troi1.jpg" alt="Bo-on-dinh-dien-ap-cho-pin-nang-luong-mat-troi1.jpg" class="wp-image-144" style="width:840px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="1152" height="517" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Bo-on-dinh-dien-ap-cho-pin-nang-luong-mat-troi1.jpg" alt="Bo-on-dinh-dien-ap-cho-pin-nang-luong-mat-troi1.jpg" class="wp-image-144" style="width:840px;height:auto"/></figure>
 
 
 
@@ -1187,7 +1187,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1080" height="1080" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/mach-cn3065.jpg" alt="" class="wp-image-145"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1080" height="1080" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/mach-cn3065.jpg" alt="" class="wp-image-145"/></figure>
 
 
 
@@ -1202,15 +1202,15 @@
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/LK1jLZdf7Jg?si=KAkzHYJZyvoQ6qtt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/29/su-dung-pin-nang-luong-mat-troi-cho-arduino/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sử dụng thư viện Low Power để hạ lượng điện tiêu thụ của arduino</title>
-		<link>http://localhost/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/</link>
-					<comments>http://localhost/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/#comments</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/#comments</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Fri, 24 May 2024 10:20:25 +0000</pubDate>
@@ -1222,7 +1222,7 @@
 
 					<description><![CDATA[&#160;Table of Content: Giới thiệu: Vấn đề tiêu thụ điện năng của bộ điều khiển là mối quan tâm hàng đầu trong thiết kế công suất thấp. Bo mạch Arduino thường được sử dụng trong các thiết bị sử dụng pin hoặc sạc năng lượng mặt trời. Những thiết bị như vậy thường cách xa [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="600" height="250" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-8.png" alt="" class="wp-image-106"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="600" height="250" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-8.png" alt="" class="wp-image-106"/></figure>
 
 
 
@@ -1469,15 +1469,15 @@ detachInterrupt(0);
 <p>Thiết kế năng lượng thấp là mối quan tâm đáng kể trong các thiết bị nhúng chạy bằng pin. Arduino có thể được tối ưu hóa cho các ứng dụng tiêu thụ điện năng thấp bằng cách chọn Arduino công suất thấp, sử dụng các chế độ tiết kiệm năng lượng, giảm tốc độ xung nhịp, giảm điện áp hoạt động, vô hiệu hóa các thiết bị ngoại vi được sử dụng trong bản phác thảo Arduino và loại bỏ các thành phần bổ sung khỏi Arduino PCB.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/24/su-dung-thu-vien-low-power-de-ha-luong-dien-tieu-thu-cua-arduino-phan-1/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ưu, nhược điểm của mắc nối tiếp và song song các tấm pin mặt trời?</title>
-		<link>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/</link>
-					<comments>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/#comments</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/#comments</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Thu, 23 May 2024 13:13:31 +0000</pubDate>
@@ -1499,7 +1499,7 @@ detachInterrupt(0);
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="540" height="221" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-5.png" alt="" class="wp-image-79"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="540" height="221" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-5.png" alt="" class="wp-image-79"/></figure>
 
 
 
@@ -1515,7 +1515,7 @@ detachInterrupt(0);
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="543" height="240" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-7.png" alt="" class="wp-image-82"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="543" height="240" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-7.png" alt="" class="wp-image-82"/></figure>
 
 
 
@@ -1530,15 +1530,15 @@ detachInterrupt(0);
 <p>Tóm lại, kết nối nối tiếp có thể tăng tổng công suất đầu ra, trong khi kết nối song song có thể duy trì cùng công suất đầu ra và tăng tổng điện áp đầu ra. Việc lựa chọn phương pháp kết nối phù hợp phụ thuộc vào yêu cầu cụ thể và thiết kế hệ thống. Cho dù bạn chọn kết nối nối tiếp hay song song, điều quan trọng là phải đảm bảo rằng mỗi bảng điều khiển đều hoạt động bình thường để đảm bảo sự ổn định và độ tin cậy của hệ thống.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/23/uu-nhuoc-diem-cua-mac-noi-tiep-va-song-song-cac-tam-pin-mat-troi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Biên dịch nhân Linux và tạo ISO có thể khởi động</title>
-		<link>http://localhost/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/</link>
-					<comments>http://localhost/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/#respond</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/#respond</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Fri, 17 May 2024 08:44:15 +0000</pubDate>
@@ -1644,7 +1644,7 @@ make -j $(nproc)</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1098" height="629" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-11-16.png" alt="" class="wp-image-44"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1098" height="629" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-11-16.png" alt="" class="wp-image-44"/></figure>
 
 
 
@@ -1680,11 +1680,11 @@ make menuconfig</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1913" height="1026" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-18-23.png" alt="" class="wp-image-45"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1913" height="1026" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-18-23.png" alt="" class="wp-image-45"/></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1913" height="1026" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-20-44.png" alt="" class="wp-image-46"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1913" height="1026" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-20-44.png" alt="" class="wp-image-46"/></figure>
 
 
 
@@ -1713,7 +1713,7 @@ make menuconfig</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1918" height="151" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-23-15.png" alt="" class="wp-image-47"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1918" height="151" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-23-15.png" alt="" class="wp-image-47"/></figure>
 
 
 
@@ -1733,7 +1733,7 @@ make menuconfig</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1918" height="346" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-26-30.png" alt="" class="wp-image-50"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1918" height="346" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-26-30.png" alt="" class="wp-image-50"/></figure>
 
 
 
@@ -1796,7 +1796,7 @@ exec /bin/sh</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="740" height="471" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-43-08.png" alt="" class="wp-image-54"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="740" height="471" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/Screenshot-from-2024-05-16-19-43-08.png" alt="" class="wp-image-54"/></figure>
 
 
 
@@ -1824,7 +1824,7 @@ exec /bin/sh</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="719" height="563" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image.png" alt="" class="wp-image-59"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="719" height="563" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image.png" alt="" class="wp-image-59"/></figure>
 
 
 
@@ -1894,15 +1894,15 @@ menuentry 'myos' --class os {
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="720" height="475" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-1.png" alt="" class="wp-image-61"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="720" height="475" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-1.png" alt="" class="wp-image-61"/></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="718" height="473" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-2.png" alt="" class="wp-image-62"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="718" height="473" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-2.png" alt="" class="wp-image-62"/></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1022" height="839" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-3.png" alt="" class="wp-image-63"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1022" height="839" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-3.png" alt="" class="wp-image-63"/></figure>
 
 
 
@@ -1930,7 +1930,7 @@ menuentry 'myos' --class os {
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1278" height="791" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/image-4.png" alt="" class="wp-image-64"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1278" height="791" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/image-4.png" alt="" class="wp-image-64"/></figure>
 
 
 
@@ -1967,15 +1967,15 @@ menuentry 'myos' --class os {
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/17/bien-dich-nhan-linux-va-tao-iso-co-the-khoi-dong/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Giới thiệu về bản thân</title>
-		<link>http://localhost/tuankhanhblog/2024/05/15/hello-world/</link>
-					<comments>http://localhost/tuankhanhblog/2024/05/15/hello-world/#respond</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/15/hello-world/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/15/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Wed, 15 May 2024 03:57:05 +0000</pubDate>
@@ -1992,7 +1992,7 @@ menuentry 'myos' --class os {
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1832" height="1374" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/05/20240526_105822.jpg" alt="" class="wp-image-141"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1832" height="1374" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/20240526_105822.jpg" alt="" class="wp-image-141"/></figure>
 
 
 
@@ -2011,7 +2011,7 @@ menuentry 'myos' --class os {
 <p>Cảm ơn tất cả mọi người ghé thăm blog của tôi!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/05/15/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/05/15/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

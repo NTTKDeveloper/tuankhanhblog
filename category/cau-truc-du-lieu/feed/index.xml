@@ -9,8 +9,8 @@
 
 <channel>
 	<title>cấu trúc dữ liệu &#8211; Tuấn Khanh Blog</title>
-	<atom:link href="http://localhost/tuankhanhblog/category/cau-truc-du-lieu/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/tuankhanhblog</link>
+	<atom:link href="https://nttkdeveloper.github.io/tuankhanhblog/category/cau-truc-du-lieu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<description>Chia sẽ kiến thức, kinh nghiệm về ngành Công nghệ thông tin</description>
 	<lastBuildDate>Tue, 04 Jun 2024 09:00:33 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>http://localhost/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
+	<url>https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/05/4.png</url>
 	<title>cấu trúc dữ liệu &#8211; Tuấn Khanh Blog</title>
-	<link>http://localhost/tuankhanhblog</link>
+	<link>https://nttkdeveloper.github.io/tuankhanhblog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Cấu Trúc Dữ Liệu: 8 Cấu Trúc Phổ Biến Nhất Và Ứng Dụng</title>
-		<link>http://localhost/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/</link>
-					<comments>http://localhost/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/#respond</comments>
+		<link>https://nttkdeveloper.github.io/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/</link>
+					<comments>https://nttkdeveloper.github.io/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/#respond</comments>
 		
 		<dc:creator><![CDATA[tuankhanh]]></dc:creator>
 		<pubDate>Tue, 04 Jun 2024 09:00:33 +0000</pubDate>
@@ -68,7 +68,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><a href="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Bang-phan-loai-cac-loai-cau-truc-du-lieu.jpg"><img fetchpriority="high" decoding="async" width="793" height="449" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Bang-phan-loai-cac-loai-cau-truc-du-lieu.jpg" alt="" class="wp-image-162" style="width:844px;height:auto"/></a></figure>
+<figure class="wp-block-image size-full is-resized"><a href="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Bang-phan-loai-cac-loai-cau-truc-du-lieu.jpg"><img fetchpriority="high" decoding="async" width="793" height="449" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Bang-phan-loai-cac-loai-cau-truc-du-lieu.jpg" alt="" class="wp-image-162" style="width:844px;height:auto"/></a></figure>
 
 
 
@@ -152,7 +152,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" width="800" height="396" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Array.jpg" alt="" class="wp-image-167" style="width:839px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="800" height="396" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Array.jpg" alt="" class="wp-image-167" style="width:839px;height:auto"/></figure>
 
 
 
@@ -208,7 +208,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="396" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Array-1.jpg" alt="" class="wp-image-168"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="396" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Array-1.jpg" alt="" class="wp-image-168"/></figure>
 
 
 
@@ -272,7 +272,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="402" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/queue.jpg" alt="" class="wp-image-171"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="402" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/queue.jpg" alt="" class="wp-image-171"/></figure>
 
 
 
@@ -332,7 +332,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="400" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/stack.jpg" alt="" class="wp-image-172"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="400" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/stack.jpg" alt="" class="wp-image-172"/></figure>
 
 
 
@@ -388,7 +388,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="400" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Tree.jpg" alt="" class="wp-image-173"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="400" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Tree.jpg" alt="" class="wp-image-173"/></figure>
 
 
 
@@ -452,7 +452,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="782" height="404" src="http://localhost/tuankhanhblog/wp-content/uploads/2024/06/Graph.png" alt="" class="wp-image-175"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="782" height="404" src="https://nttkdeveloper.github.io/tuankhanhblog/wp-content/uploads/2024/06/Graph.png" alt="" class="wp-image-175"/></figure>
 
 
 
@@ -681,7 +681,7 @@
 <p>Ở bài viết sau mình sẽ viết cụ thể hơn về từng loại cấu trúc dữ liệu và triễn khai nó trên ngôn ngữ C. Cảm ơn các bạn đã xem bài viết này! </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttkdeveloper.github.io/tuankhanhblog/2024/06/04/cau-truc-du-lieu-8-cau-truc-pho-bien-nhat-va-ung-dung/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
