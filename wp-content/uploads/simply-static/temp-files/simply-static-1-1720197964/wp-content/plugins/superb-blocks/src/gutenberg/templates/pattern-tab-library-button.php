@@ -1,4 +1,0 @@
-<div role="listitem" class="superb-addons-gutenberg-library-button-wrapper-patterns-tab">
-    <button class="components-button block-editor-inserter__patterns-explore-button is-secondary">
-        <img src="http://empty-house.localsite.io/wp-content/plugins/superb-blocks/src/gutenberg/templates/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in E:\MyProject\tuankhanhblog\app\public\wp-content\plugins\superb-blocks\src\gutenberg\templates\pattern-tab-library-button.php:3_Stack trace:_#0 {main}_  thrown in <b>E:\MyProject\tuankhanhblog\app\public\wp-content\plugins\superb-blocks\src\gutenberg\templates\pattern-tab-library-button.php</b> on line <b>3</b><br />"></button>
-</div>
